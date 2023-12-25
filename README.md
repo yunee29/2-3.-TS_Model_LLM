@@ -21,3 +21,5 @@
 
 ## 7. Pre-trained Models and Transfer Learning
 *Pre-trained language models, like GPT-2 and BERT, demonstrated the power of transfer learning. These models are trained on vast amounts of text data and can be fine-tuned for specific NLP tasks, reducing the need for task-specific training data.*
+
+* related: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/code
