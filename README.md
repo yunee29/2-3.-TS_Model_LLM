@@ -1,4 +1,4 @@
-# History of LLM
+# About LLM
 
 ## 1. Early Neural Language Models
 The roots of LLMs can be traced back to the early development of neural network-based language models, such as **feedforward neural networks and recurrent neural networks (RNNs)**. These early models attempted to capture linguistic patterns in text.
